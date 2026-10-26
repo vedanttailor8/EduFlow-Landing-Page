@@ -1,27 +1,34 @@
-# **EduFlow Landing Page**
+# **FitLife Landing Page**
 
 
 
-## **Target Users**
+#### **Target Users**
 
 
 
-Students and beginners interested in Programming, Artificial Intelligence, Cloud Computing, Data Science, and Web Development.
+**Fitness enthusiasts, gym members, and individuals seeking professional fitness guidance.**
 
 
 
-## Design Choices
+#### **Design Choices**
 
 
 
-EduFlow is an educational platform designed to help learners develop technical skills through expert-led courses. The landing page includes a navigation header, hero section, call-to-action buttons, educational imagery, feature cards, and a footer. Consistent colors, typography, and spacing were maintained throughout the design.
+**FitLife is a fitness platform that provides workout plans, expert trainers, nutrition guidance, and progress tracking. The landing page uses fitness-focused imagery, clear navigation, feature sections, testimonials, and call-to-action buttons to encourage user engagement.**
+
+#### 
+
+#### **Features**
 
 
 
-### Features
+**Workout Plans**
 
-* Online Courses
-* Expert Mentors
-* Industry Certificates
-* Career-Focused Learning
+**Expert Trainers**
+
+**Nutrition Plans**
+
+**Progress Tracking**
+
+**Fitness Programs**
 
